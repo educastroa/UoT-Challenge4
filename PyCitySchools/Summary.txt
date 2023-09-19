@@ -1,0 +1,12 @@
+﻿1- Summarizes the analysis 
+
+* The file PyCitySchools analyses students from Chapter and District regarding reading and math subject performance. It also tries to provide conclusions in relation to the size of schools as well as budget
+
+
+
+
+2 - Draws two correct conclusions or comparisons from the calculations
+
+* Based on the analysis obtained after finalizing the PyCitySchools we can see that students on chapter schools have higher reading and math scores compared with students from district schools.
+
+* We can also see that students from the dataset analyzed perform better on the subject Reading compared to Math. Not only the average score is higher for Reading, but the number of students that have the score higher than 70 is higher for Reading as well.
